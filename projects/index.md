@@ -3,10 +3,10 @@ layout: page
 title: Projects
 permalink: /projects/
 class: projects
+nav: true
 ---
 
-This is a non-exhaustive list of the projects I've worked on over the years.  The list is roughly in reverse 
-chronological order.
+This is a non-exhaustive list of the projects I've worked on over the years. 
 
 # Current
 
@@ -55,17 +55,47 @@ LED panels arranged in an arc and a Mario-themed time and weather display.
 
 # Past
 
-## [Asterix](/projects/asterix/)
-## [Loquacious and Lovely](/projects/loquacious-and-lovely/)
-## [Door Bot](/projects/door-bot/)
-## [Temple of the Unticketed](/projects/totu/)
-## [Megamario](/projects/mega-mario/)
-## [Virtual Phone Toss](/projects/virtual-phone-toss/)
-## [Light Tapestries](/projects/light-tapestries/)
-## [Art Car Wash Sign](/projects/art-car-wash-sign/)
-## [Giant Lite Brite](/projects/giant-lite-brite/)
-## [Business Card Gun](/projects/business-card-gun/)
-## [JPLT](/projects/jplt/)
-## [RGLister](/projects/rglister/)
-## [TSR BBS](/projects/tsrbbs/)
+## Asterix
+
+![Asterix at BM2015](/projects/asterix/photo-thumb.jpg) 
+
+DomeStar's LEDs were repurposed for the octahedron structure in front of Disorient at Burning Man 2015.
+
+* [GitHub](https://github.com/hackrockcity/D15AsterixTransmitter)
+* [Asterix at Disorient Wiki](http://wiki.disorient.info/index.php?title=Geodesic_Temple#Asterix_.28Burning_Man_2015.29)
+
+<div class="clear"></div>
+
+## Loquacious and Lovely
+
+![Unicorn at BM2015](/projects/unicorns/photo-thumb.jpg)
+
+Donated some LEDs and code to light up Sophi Kravitz' riding unicorns on playa at Burning Man 2015.  
+
+* [L&L at Mix Engineering](http://mix-engineering.com/projects/loquacious-and-lovely-mythical-talking-unicorns/)
+
+<div class="clear"></div>
+
+## Door Bot
+
+## Temple of the Unticketed
+
+## Megamario
+
+## Virtual Phone Toss
+
+## Light Tapestries
+
+## Art Car Wash Sign
+
+## Giant Lite Brite
+
+## Business Card Gun
+
+## JPLT
+
+## RGLister
+
+## TSR BBS
+
 

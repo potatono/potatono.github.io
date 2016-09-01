@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<simpleviewergallery 
+
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="true"
+	galleryStyle="COMPACT"
+	thumbPosition="BOTTOM"
+	thumbColumns="8"
+	thumbRows="1"
+	galleryWidth="720"
+	galleryHeight="545"
+	frameWidth="0"
+	showFullscreenButton="false"
+	showOpenButton="true"
+
+>
+  <image imageURL="images/cc2016-01.jpg"
+	thumbURL="thumbs/cc2016-01.jpg"
+	linkURL="images/cc2016-01.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/cc2016-02.jpg"
+	thumbURL="thumbs/cc2016-02.jpg"
+	linkURL="images/cc2016-02.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+
+  <image imageURL="images/8041951025_79645ba656_b.jpg"
+	thumbURL="thumbs/8041951025_79645ba656_b.jpg"
+	linkURL="images/8041951025_79645ba656_b.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/8043995727_9e1fc85429_b.jpg"
+	thumbURL="thumbs/8043995727_9e1fc85429_b.jpg"
+	linkURL="images/8043995727_9e1fc85429_b.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/8044030614_13eed2432f_b.jpg"
+	thumbURL="thumbs/8044030614_13eed2432f_b.jpg"
+	linkURL="images/8044030614_13eed2432f_b.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_7559.jpg"
+	thumbURL="thumbs/DSC_7559.jpg"
+	linkURL="images/DSC_7559.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_8417.jpg"
+	thumbURL="thumbs/DSC_8417.jpg"
+	linkURL="images/DSC_8417.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/v84oI.jpg"
+	thumbURL="thumbs/v84oI.jpg"
+	linkURL="images/v84oI.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/v0UnV.jpg"
+	thumbURL="thumbs/v0UnV.jpg"
+	linkURL="images/v0UnV.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/domestar-burningman-4.jpg"
+	thumbURL="thumbs/domestar-burningman-4.jpg"
+	linkURL="images/domestar-burningman-4.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/domestar-burningman-5.jpg"
+	thumbURL="thumbs/domestar-burningman-5.jpg"
+	linkURL="images/domestar-burningman-5.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DomeStarTop.jpg"
+	thumbURL="thumbs/DomeStarTop.jpg"
+	linkURL="images/DomeStarTop.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/400px-DomeStarRolls.jpg"
+	thumbURL="thumbs/400px-DomeStarRolls.jpg"
+	linkURL="images/400px-DomeStarRolls.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DomeStar.jpg"
+	thumbURL="thumbs/DomeStar.jpg"
+	linkURL="images/DomeStar.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/tumblr_m5ku00H3aN1rxetzao1_1280.jpg"
+	thumbURL="thumbs/tumblr_m5ku00H3aN1rxetzao1_1280.jpg"
+	linkURL="images/tumblr_m5ku00H3aN1rxetzao1_1280.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/7242380822_cf91a5fc23_b.jpg"
+	thumbURL="thumbs/7242380822_cf91a5fc23_b.jpg"
+	linkURL="images/7242380822_cf91a5fc23_b.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_1863.jpg"
+	thumbURL="thumbs/DSC_1863.jpg"
+	linkURL="images/DSC_1863.jpg"
+	linkTarget="_blank">
+    <caption><![CDATA[]]></caption>
+  </image>
+</simpleviewergallery>
