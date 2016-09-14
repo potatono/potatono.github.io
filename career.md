@@ -2,11 +2,12 @@
 layout: page
 title: Career
 permalink: /career/
+nav: true
 ---
 
 # Summary
 
-Seasoned startup CTO and entrepreneur.  Comfortable building and leading teams to tackle hard problems.
+Seasoned entrepreneur and CTO.  Comfortable building and leading teams to tackle hard problems.
 
 # Experience
 

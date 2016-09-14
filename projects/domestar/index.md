@@ -105,3 +105,18 @@ I created a mobile web app that reads your phones accelerometer data and feeds i
 ### More strips and the swirl
 
 Should DomeStar continue to appear the next most obvious upgrade would be to add more strips.  6400 LEDs just aren't that impressive anymore.  I think doubling the count would be a straightforward upgrade.  I would also like to experiment with mounting the strips at an angle so that the LEDs are distributed more horizontally.  The current aspect ratio of 1:4 makes recognizable imagery really challenging.
+
+<a name="asterix"></a>
+### Asterix
+
+* [GitHub](https://github.com/hackrockcity/D15AsterixTransmitter)
+* [Asterix at Disorient Wiki](http://wiki.disorient.info/index.php?title=Geodesic_Temple#Asterix_.28Burning_Man_2015.29)
+
+![Asterix](../asterix/photo-thumb.jpg)
+
+DomeStar's LEDs were repurposed for the octahedron structure in front of Disorient at Burning Man 2015.  I also participated in the physical build
+of the structure.  
+
+Because of the harsh envrionmental conditions at Burning Man, I changed the power supplies for sealed [Meanwell 5V supplies](https://www.meanwell-web.com/product_info.php/cPath/577_588_967_1014_1028/products_id/LPV-100-5).  [Matt Mets](http://www.blinkinlabs.com/) made a quick change the PCB to support it.
+
+We also used a Raspberry PI to run the UDP->USB host code.  The laptop that ran the Processing code was kept in a container back in camp.  We ran a long ethernet cable out to the structure to connect to the PI.  It worked reasonably well, but an off-by-one error somewhere caused glitches in the color.  I just kept all the routines white rather than ferreting out the bug, because Burning Man.

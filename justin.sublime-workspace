@@ -16,9 +16,51 @@
 	"buffers":
 	[
 		{
+			"file": "projects/index.md",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 2658,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/main.scss",
+			"settings":
+			{
+				"buffer_size": 1138,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "projects/domestar/index.md",
+			"settings":
+			{
+				"buffer_size": 8299,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "projects/domestar/gallery/gallery.xml",
+			"settings":
+			{
+				"buffer_size": 3621,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "projects/linkfilter/index.md",
+			"settings":
+			{
+				"buffer_size": 5098,
+				"line_ending": "Unix",
+				"name": "---"
+			}
+		},
+		{
+			"file": "career.md",
+			"settings":
+			{
+				"buffer_size": 896,
 				"line_ending": "Unix"
 			}
 		}
@@ -63,6 +105,17 @@
 	},
 	"file_history":
 	[
+		"/Users/justinday/Dropbox/Source/Hacking/www.justinday.com/_includes/header.html",
+		"/Users/justinday/Dropbox/Source/Hacking/www.justinday.com/_layouts/post.html",
+		"/Users/justinday/Dropbox/Source/Hacking/www.justinday.com/_includes/post.html",
+		"/Users/justinday/Dropbox/Source/Hacking/www.justinday.com/index.html",
+		"/Users/justinday/Dropbox/Source/Hacking/www.justinday.com/_layouts/page.html",
+		"/Users/justinday/Dropbox/Source/Hacking/www.justinday.com/_posts/2016-08-22-new-personal-site.markdown",
+		"/Users/justinday/Dropbox/Source/Hacking/www.justinday.com/career.md",
+		"/Users/justinday/Dropbox/Source/Hacking/www.justinday.com/projects/mushroom-cabal/index.md",
+		"/Users/justinday/Dropbox/Source/Hacking/www.justinday.com/_config.yml",
+		"/Users/justinday/Dropbox/Source/Hacking/www.justinday.com/projects/domestar/index.md",
+		"/Users/justinday/Dropbox/Source/Hacking/www.justinday.com/projects.md",
 		"/Users/justinday/Dropbox/Source/Carmera/CnCMusicFactory/static/dashboard.html",
 		"/Users/justinday/Dropbox/Source/Carmera/CnCMusicFactory/python/requirements.txt",
 		"/Users/justinday/Dropbox/Source/Carmera/CnCMusicFactory/circle.yml",
@@ -214,27 +267,159 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 4,
 			"sheets":
 			[
 				{
 					"buffer": 0,
+					"file": "projects/index.md",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 2658,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								1980,
+								1980
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/main.scss",
+					"settings":
+					{
+						"buffer_size": 1138,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1027,
+								1027
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "projects/domestar/index.md",
+					"settings":
+					{
+						"buffer_size": 8299,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5893,
+								5893
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 92.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "projects/domestar/gallery/gallery.xml",
+					"settings":
+					{
+						"buffer_size": 3621,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								592,
+								592
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "projects/linkfilter/index.md",
+					"settings":
+					{
+						"buffer_size": 5098,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3078,
+								3078
+							]
+						],
+						"settings":
+						{
+							"auto_name": "---",
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 697.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "career.md",
+					"settings":
+					{
+						"buffer_size": 896,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								173,
+								173
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
