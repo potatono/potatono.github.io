@@ -7,4 +7,4 @@ categories: site update
 
 I'm kicking off this site to document my personal projects, thoughts, and career.  It will
 take some time to get everything documented.  Check out the [Projects](/projects/) page to 
-see a sampling of the things I've worked on.
+see a sampling of the things I've worked on. 

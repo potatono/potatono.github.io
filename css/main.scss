@@ -38,23 +38,42 @@ $on-laptop:        800px;
 // Import partials from the `minima` theme.
 @import "minima";
 
-.post-content h2 {
-	font-size: 1.5em;
+h2 {
+	font-size: 1.5em !important;
+	
 }
 
-.post-content h3 {
-	font-size: 1.25em;
+.projects h2 {
+	border-bottom: 1px solid #ccc;
+}
+
+h3 {
+	font-size: 1.25em !important;
+	margin-bottom: 5px !important;
 }
 
 .projects img {
 	float: left;
-	margin: 5px;
+	margin: 0 15px 15px 0;
+	width: 250px;
+	border: 1px solid #ccc;
 }
 
 .clear {
 	clear: both;
 }
 
-h1.post-title {
-	font-size: 2em;
+h1 {
+	font-size: 2em !important;
+}
+
+.current-projects img {
+	width: 186px;
+	margin: 0 10px 0 10px;
+	border: 1px solid #ccc;
+}
+
+.current-projects {
+	text-align: center;
+	margin-bottom: 20px;
 }

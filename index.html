@@ -4,19 +4,19 @@ layout: default
 
 <div class="home">
 
-  {% for post in site.posts %}
-    <article class="post" itemscope itemtype="http://schema.org/BlogPosting">
+  <h2>Current Projects</h2>
 
-    <header class="post-header">
-      <h1 class="post-title" itemprop="name headline">{{ post.title | escape }}</h1>
-      <p class="post-meta"><time datetime="{{ post.date | date_to_xmlschema }}" itemprop="datePublished">{{ post.date | date: "%b %-d, %Y" }}</time></p>
-    </header>
+  <div class="current-projects">
+    <a href="/projects/mushroom-cabal/"><img src="/projects/mushroom-cabal/screenshot-thumb.png"></a>
+    <a href="/projects/domestar/"><img src="/projects/domestar/cc2016-01-thumb.jpg"></a>
+    <a href="/projects/linkfilter/"><img src="/projects/linkfilter/screenshot-thumb.png"></a>
+  </div>
 
-    <div class="post-content" itemprop="articleBody">
-      {{ post.content }}
-    </div>
+  <h2>Recent Thoughts</h2>
 
-  </article>
-
+  {% for post in site.posts limit:3 %}
+    {% include excerpt.html %}
   {% endfor %}
+
+  <a href="/posts">Archives</a>
 </div>

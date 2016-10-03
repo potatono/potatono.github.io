@@ -12,12 +12,14 @@ Seasoned entrepreneur and CTO.  Comfortable building and leading teams to tackle
 # Experience
 
 ## Carmera
-### Co-Founder/CTO, Spring 2015 - Present
+### Co-Founder/CTO 
+Spring 2015 - Present
 
 * Stealth mode company focused on mobile mapping and computer vision
 
 ## MakerBot
-### VP of Web, promoted to CTO, 2012 - Spring 2015
+### VP of Web, CTO 
+2012 - Spring 2015
 
 * Promoted twice to become CTO
 * Lead team through acquisition, earn out, and integration
@@ -26,7 +28,8 @@ Seasoned entrepreneur and CTO.  Comfortable building and leading teams to tackle
 * Architected MakerBot Library, Digital Store, Account
 
 ## blip.tv
-### Co-Founder/CTO, 2005 - 2012
+### Co-Founder/CTO 
+2005 - 2012
 
 * Built outstanding company culture former employees still rave about
 * Developed CMS and video delivery that scaled to 100mm views
